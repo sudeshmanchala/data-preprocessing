@@ -1,0 +1,6 @@
+Name,Age,City,Income,Gender,Order_ID,Birth_Date
+Alice,25.0,New York,50000.0,Female,1001a,1998-07-15
+Bob,,Los Angeles,60000.0,Male,1002,
+Charlie,30.0,,,Male,,1990-03-22
+David,22.0,Chicago,55000.0,,1003b,1995-11-05
+,28.0,Miami,,Female,1004,
