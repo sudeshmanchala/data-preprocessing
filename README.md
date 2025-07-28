@@ -32,7 +32,7 @@ A simple and interactive Flask-based web application to upload, preview, clean, 
 ## Installation
 
 1. Clone the repo:
-git clone https://github.com/yourusername/data-preprocessing.git
+git clone https://github.com/sudeshmanchala/data-preprocessing.git
 cd data-preprocessing
 2.(Optional) Create and activate a virtual environment:
 python -m venv venv
